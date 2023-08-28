@@ -11,4 +11,4 @@ This project was created during my studies in Flutter and Dart.
 
 <div>Main Page</div>
 
-<img src="https://github.com/ZeAndradee/Login-Screen/assets/59659214/489a22d9-5610-4044-912f-fa100102fc6d" width="500px"/>
+<img src="https://github.com/ZeAndradee/Login-Screen/assets/59659214/465f1cbd-046b-449e-96b6-b247228923bc" width="500px"/>
